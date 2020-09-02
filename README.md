@@ -76,7 +76,7 @@
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/pof(35).pdf" style="text-decoration:none;">DynWalks: Global Topology and Recent Changes Awareness Dynamic Network Embedding</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/pof(36).pdf" style="text-decoration:none;">Time in Fundamental Physics</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/pof(36).pdf" style="text-decoration:none;">Discrete Network Embedding</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/pof(37).pdf" style="text-decoration:none;">LEAP nets for power grid perturbations</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/pof(38).pdf" style="text-decoration:none;">Fast and Accurate Network Embeddings via Very Sparse Random Projection</a></li>
@@ -126,5 +126,9 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/pof(63).pdf" style="text-decoration:none;">Inductive Document Network Embedding with Topic-Word Attention</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/pof(64).pdf" style="text-decoration:none;">Fast Sequence Based Embedding with Diffusion Graphs</a></li>
+  
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-Papers-on-Network-Embedding/blob/master/pof(65).pdf" style="text-decoration:none;">Dynamic Network Embedding: An Extended Approach for Skip-gram based Network Embedding</a></li>  
+  
  
  </ul>
